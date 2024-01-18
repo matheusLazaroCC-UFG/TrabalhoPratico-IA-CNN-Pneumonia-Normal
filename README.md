@@ -1,0 +1,1 @@
+# TrabalhoPratico-IA-CNN-Pneumonia-Normal
